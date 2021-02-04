@@ -1,16 +1,15 @@
-### Hi there 👋
+## Welcome to my GitHub
 
-<!--
-**drblack8/drblack8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Dan and this is the home of most of my published work.
 
-Here are some ideas to get you started:
+As someone who is curious by nature, the more difficult the problem, the more fulfilling it is to solve. Coupled with my enduring passion for technology, it was a matter of time that I'd find my self pursuing a career in software development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do still have an ardent relationship with investing, but it became clear to me while working in the field, that what I really loved was the analytics and the algorithms involved in finding the gem in the rough. Introducing myself to programming was the single greatest choice I have made in my lifetime, as I've quickly realized there are an infinite number of problems to be solved and algorithms to be written. 
+
+#### [Here's my porfolio containing a more comprehensive view of my projects.](http://jarondegen.com/)
+
+### Projects
+#### 👨‍🍳 [RiftStats](http://gxrift.com)
+#### 🎲 [OPChamps](http://opchamps.herokuapp.com/home)
+#### 🍔 [WhatsForLunch](http://aawhatsforlunch.herokuapp.com)
+#### 🥃 [averagereads](http://averagereads.herokuapp.com/)
