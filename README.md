@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 
-### My name is Dan and this is the home of most of my published work.
+### My name is Dan and this GitHub is home to most of my published work.
 
 As someone who is curious by nature, the more difficult the problem, the more fulfilling it is to solve. Coupled with my enduring passion for technology, it was a matter of time that I'd find my self pursuing a career in software development. 
 
