@@ -8,7 +8,7 @@ I do still have an ardent relationship with investing, but it became clear to me
 
 #### [Here's my porfolio containing a more comprehensive view of my projects.](http://dblack.app/)
 
-### Projects
+### Projects 
 #### 🎮 [RiftStats](http://gxrift.com)
 #### ⌨️ [OPChamps](http://opchamps.herokuapp.com/home)
 #### 🍔 [WhatsForLunch](http://aawhatsforlunch.herokuapp.com)
